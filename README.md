@@ -13,11 +13,11 @@ Intermediate CSS
 - CSS Cross-Country
 - Journey Into Mobile
 - Unmasking HTML Emails
-- [Adventures in Web Animations](https://github.com/WispProxy/Code-School-Slides/)
+- [Adventures in Web Animations](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/HTML_CSS/Intermediate%20CSS/CodeSchool-AdventuresInWebAnimations.pdf)
 
 SVG
 
-- [You, Me & SVG](https://github.com/WispProxy/Code-School-Slides/)
+- [You, Me & SVG](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/HTML_CSS/SVG/CodeSchool-YouMeSvg.pdf)
 
 CSS Preprocessors
 

@@ -50,22 +50,22 @@ jQuery
 
 Client-side Frameworks
 
-- [Accelerating Through Angular 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
-- [Powering Up With React](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
-- [Try Ember](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
-- [Shaping up with Angular.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
-- [Staying Sharp with Angular.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
-- [Anatomy of Backbone.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
-- [Anatomy of Backbone.js Part 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Accelerating Through Angular 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Client-side%20Frameworks/CodeSchool-AcceleratingThroughAngular2.pdf)
+- [Powering Up With React](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Client-side%20Frameworks/CodeSchool-PoweringUpWithReact.pdf)
+- [Try Ember](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Client-side%20Frameworks/CodeSchool-TryEmber.pdf)
+- [Shaping up with Angular.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Client-side%20Frameworks/level01-05.pdf)
+- [Staying Sharp with Angular.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Client-side%20Frameworks/angular2-full-small.pdf)
+- [Anatomy of Backbone.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Client-side%20Frameworks/The_Anatomy_of_BackboneJS.pdf)
+- [Anatomy of Backbone.js Part 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Client-side%20Frameworks/backbone2.pdf)
 
 Server-side Frameworks
 
-- Real-time Web with Node.js
-- Building Blocks of Express.js
+- [Real-time Web with Node.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [Building Blocks of Express.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
 
 CoffeeScript
 
-- CoffeeScript
+- [CoffeeScript](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
 
 # Ruby
 

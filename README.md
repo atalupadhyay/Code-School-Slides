@@ -60,18 +60,18 @@ Client-side Frameworks
 
 Server-side Frameworks
 
-- [Real-time Web with Node.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
-- [Building Blocks of Express.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [Real-time Web with Node.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Server-side%20Frameworks/node-all-levels.pdf)
+- [Building Blocks of Express.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/Server-side%20Frameworks/express-all-levels.pdf)
 
 CoffeeScript
 
-- [CoffeeScript](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [CoffeeScript](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/CoffeeScript/coffeescript_slides.pdf)
 
 # Ruby
 
 Getting Started With Ruby on Rails
 
-- Try Ruby
+- **(No slides)** Try Ruby
 - Rails for Zombies Redux
 - Rails for Zombies 2
 

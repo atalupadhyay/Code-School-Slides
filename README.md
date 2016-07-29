@@ -45,18 +45,18 @@ JavaScript Language
 
 jQuery
 
-- [Try jQuery](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
-- [jQuery: The Return Flight](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Try jQuery](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/jQuery/codeschool_try_jquery.pdf)
+- [jQuery: The Return Flight](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/jQuery/jquery-part2.pdf)
 
 Client-side Frameworks
 
-- Accelerating Through Angular 2
-- Powering Up With React
-- Try Ember
-- Shaping up with Angular.js
-- Staying Sharp with Angular.js
-- Anatomy of Backbone.js
-- Anatomy of Backbone.js Part 2
+- [Accelerating Through Angular 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Powering Up With React](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Try Ember](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Shaping up with Angular.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Staying Sharp with Angular.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Anatomy of Backbone.js](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [Anatomy of Backbone.js Part 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
 
 Server-side Frameworks
 

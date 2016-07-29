@@ -37,16 +37,16 @@ Design
 
 JavaScript Language
 
-- [JavaScript Road Trip Part 1](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
-- [JavaScript Road Trip Part 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
-- [JavaScript Road Trip Part 3](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
-- [ES2015: The Shape of JavaScript to Come](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
-- [JavaScript Best Practices](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [JavaScript Road Trip Part 1](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/JavaScript%20Language/js1.pdf)
+- [JavaScript Road Trip Part 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/JavaScript%20Language/js2.pdf)
+- [JavaScript Road Trip Part 3](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/JavaScript%20Language/js3.pdf)
+- [ES2015: The Shape of JavaScript to Come](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/JavaScript%20Language/all-levels.pdf)
+- [JavaScript Best Practices](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/JavaScript%20Language/JSBP_full.pdf)
 
 jQuery
 
-- Try jQuery
-- jQuery: The Return Flight
+- [Try jQuery](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
+- [jQuery: The Return Flight](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/JavaScript/)
 
 Client-side Frameworks
 

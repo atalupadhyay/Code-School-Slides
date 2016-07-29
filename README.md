@@ -37,11 +37,11 @@ Design
 
 JavaScript Language
 
-- JavaScript Road Trip Part 1
-- JavaScript Road Trip Part 2
-- JavaScript Road Trip Part 3
-- ES2015: The Shape of JavaScript to Come
-- JavaScript Best Practices
+- [JavaScript Road Trip Part 1](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [JavaScript Road Trip Part 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [JavaScript Road Trip Part 3](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [ES2015: The Shape of JavaScript to Come](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [JavaScript Best Practices](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
 
 jQuery
 

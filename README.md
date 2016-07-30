@@ -129,20 +129,20 @@ iOS Development With Objective-C
 Git
 
 - **(No slides)** Try Git
-- [Git Real](https://github.com/WispProxy/Code-School-Slides/blob/develop/)
-- [Git Real 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/)
+- [Git Real](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/Git/Git/git_real_slides.pdf)
+- [Git Real 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/Git/Git/git_real_2_full_deck.pdf)
 - Mastering GitHub
 
 # Database
 
 SQL
 
-- Try SQL
+- [Try SQL](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
 - The Sequel to SQL
 
 NoSQL
 
-- The Magical Marvels of MongoDB
+- [The Magical Marvels of MongoDB](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
 
 # Electives
 

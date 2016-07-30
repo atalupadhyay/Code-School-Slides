@@ -137,17 +137,17 @@ Git
 
 SQL
 
-- [Try SQL](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [Try SQL](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/Database/SQL/trysql-slides.pdf)
 - The Sequel to SQL
 
 NoSQL
 
-- [The Magical Marvels of MongoDB](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- [The Magical Marvels of MongoDB](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/Database/NoSQL/the-magical-marvels-of-mongodb-slides.pdf)
 
 # Electives
 
 Electives
 
-- Breaking the Ice With Regular Expressions
-- Try R
-- Discover DevTools
+- [Breaking the Ice With Regular Expressions](https://github.com/WispProxy/Code-School-Slides/blob/develop/Slides/)
+- **(No slides)** Try R
+- **(No slides)** Discover DevTools

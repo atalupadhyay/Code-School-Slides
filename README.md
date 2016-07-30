@@ -128,9 +128,9 @@ iOS Development With Objective-C
 
 Git
 
-- Try Git
-- Git Real
-- Git Real 2
+- **(No slides)** Try Git
+- [Git Real](https://github.com/WispProxy/Code-School-Slides/blob/develop/)
+- [Git Real 2](https://github.com/WispProxy/Code-School-Slides/blob/develop/)
 - Mastering GitHub
 
 # Database
